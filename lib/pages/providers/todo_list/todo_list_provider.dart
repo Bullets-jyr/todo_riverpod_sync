@@ -16,6 +16,7 @@ class TodoList extends _$TodoList {
 
   void addTodo(String desc) {
     state = [...state, Todo.add(desc: desc)];
+    print(state);
   }
 
   void editTodo(String id, String desc) {
