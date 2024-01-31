@@ -1,3 +1,3 @@
 # todo_riverpod_sync
 
-- Synchrnous Todo
+- Synchronous Todo
